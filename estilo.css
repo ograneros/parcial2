@@ -114,3 +114,8 @@ img.tercera {
   flex-direction: column;
   align-items: flex-end;
 }*/
+
+#user-welcome{
+	font-family: fantasy;
+	font-weight: bold;
+}
